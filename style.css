@@ -1,0 +1,168 @@
+*{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    color: black;
+}
+img{
+    height: 100vh;
+
+}
+.himage{
+    height: 100vh;
+}
+.nav{
+    height: 5rem;
+    width: 100%;
+    display: flex;
+    position: fixed;
+}
+.logo img{
+    height: 4rem;
+    width: 7rem;
+    margin-left: 8rem;
+    margin-right: 2rem;
+
+}
+.search{
+    /* width: 25%; */
+}
+.search img{
+    
+     height: 1.5rem;
+    margin-right: 10rem;
+    margin-left: 12rem;
+    margin-top: 1.2rem;
+    display: flex;
+    margin-right: 4.5rem;
+    
+}
+.search button{
+    display: flex;
+    margin-top: 1rem;
+    border-radius: 0.2rem;
+    position: relative;
+    bottom: 2.45rem;
+    color: white;
+    height: 1.75rem;
+    margin-left: 14rem;
+}
+ .nav-tital a{
+    margin-top: 3rem;
+    padding-right: 1.5rem;
+    text-decoration: none;
+    margin: 1rem 2rem 0.5 1rem;
+    position: relative;
+    top: 1rem;
+}
+.nav-tital{
+    width: 50%;
+    text-align: center;
+    
+}
+.hero-image{
+    position: relative;
+    left: 30rem;
+    bottom: 40rem;
+}
+h1{
+    position: relative;
+    bottom: 67rem;
+    left: 7rem;
+    font-size: 50px;
+    font-weight: 500;
+    
+}
+h5{
+    position: relative;
+    bottom: 66rem;
+    left: 7rem;
+    font-weight: 400;
+    font-size: 25px;
+}
+
+
+    .car{
+        height: 50px;
+        width: 140px;
+        margin: 0 auto;
+        background: transparent;
+        border-radius: 80px ;
+        border: 0.25px solid rgb(180, 177, 177);
+        position: relative;
+       bottom: 92rem;
+        left: 1rem;
+        background-color: white;
+        box-shadow: 2px white;
+}
+.car-img{
+    height: 2rem;
+    position: relative;
+    top: 0.55rem;
+    left: 0.75rem;
+}
+.car p{
+    position: relative;
+    right: -50px;
+    left: ;
+    bottom: 28px;
+    font-size: large;
+}
+.home{
+    height: 50px;
+    width: 150px;
+    margin: 0 auto;
+    background: transparent;
+    border-radius: 80px ;
+    border: 0.25px solid rgb(180, 177, 177);
+    position: relative;
+   bottom: 92rem;
+    left: 30rem;
+    background-color: white;
+    box-shadow: 4px black;
+}
+
+ .home-img{
+    height: 2rem;
+    position: relative;
+    top: 7px;
+    left: 3px;
+    
+    
+    
+}
+.home p{
+    position: relative;
+    left: 40px;
+    bottom: 30px;
+    font-size: large;
+    
+}
+.A{height: 27px;
+    width: 120px;
+    border-radius: 5px;
+    border: none;
+    position: relative;
+    bottom: 65rem;
+    left: 10rem;
+
+}
+.L{
+    border-color: #ed017f;
+    color: #ed017f;
+    background-color: white;
+    border-radius: 5px;
+    position: relative;
+    bottom: 65rem;
+    left: 11rem;
+}
+.footer{
+    display: flex;
+    height: 1.5rem;
+    padding-right: 10px;
+    position: relative;
+    bottom: 34rem;
+    left: 5rem;
+}
+
+
